@@ -23,7 +23,7 @@
 /*-----------------------------------------------------------------------
  * Physical Memory Map
  */
-#define CONFIG_SYS_TEXT_BASE	0x80110000
+#define CONFIG_SYS_TEXT_BASE	0x80f10000
 
 /* Generic Interrupt Controller */
 #define CONFIG_GICV2
